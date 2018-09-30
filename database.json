@@ -1,5 +1,12 @@
 {
   "studio-open-web": {},
+  "HID Keyboard Device": {
+    "jogKinz": "rz",
+    "jogLink": "x",
+    "jogKinslider": "slider",
+    "jogKiny": "y",
+    "jogKinx": "x"
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.25.2",
