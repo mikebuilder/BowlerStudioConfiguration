@@ -1,15 +1,6 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/bcee94b10932ad99f6a29203568e8fc8.git:helloWorld.groovy": [
-      "https://gist.github.com/bcee94b10932ad99f6a29203568e8fc8.git",
-      "helloWorld.groovy"
-    ],
-    "none:C:\\Users\\micha\\Downloads\\RBELabCustomParts-master\\RBELabCustomParts-master\\motorMountPlate.groovy": [
-      "none",
-      "C:\\Users\\micha\\Downloads\\RBELabCustomParts-master\\RBELabCustomParts-master\\motorMountPlate.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.25.2",
     "fontsize": 12.0,
